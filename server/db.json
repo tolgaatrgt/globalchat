@@ -1,0 +1,118 @@
+{
+  "messages": [
+    {
+      "text": "merhaba",
+      "nickname": "tolga",
+      "time": "23:1",
+      "id": 1
+    },
+    {
+      "text": "iyi akşamlar",
+      "nickname": "hüseyin",
+      "time": "2:18",
+      "id": 2
+    },
+    {
+      "text": "dışarı çıkıcam gelicek misiniz ?",
+      "nickname": "yunus",
+      "time": "2:21",
+      "id": 3
+    },
+    {
+      "text": "1 saate müsaitim olurum",
+      "nickname": "hüseyin",
+      "time": "2:18",
+      "id": 4
+    },
+    {
+      "text": "malesef projeyi bitirmem gerek",
+      "nickname": "tolga",
+      "time": "2:14",
+      "id": 5
+    }
+  ],
+  "personalmessages": [
+    {
+      "text": "hey",
+      "receiver": "mert",
+      "time": "0:22",
+      "whosend": "tolga",
+      "id": 1
+    },
+    {
+      "text": "merhaba",
+      "receiver": "tolga",
+      "time": "0:22",
+      "whosend": "mert",
+      "id": 2
+    },
+    {
+      "text": "furkan yarın okula gelicek misin ?",
+      "receiver": "furkan",
+      "time": "2:14",
+      "whosend": "tolga",
+      "id": 3
+    },
+    {
+      "text": "malesef :/",
+      "receiver": "tolga",
+      "time": "2:17",
+      "whosend": "furkan",
+      "id": 4
+    },
+    {
+      "text": "dakikam bitmiş beni arasana",
+      "receiver": "hüseyin",
+      "time": "2:14",
+      "whosend": "tolga",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "mert",
+      "status": "⭕",
+      "id": 54
+    },
+    {
+      "name": "hüseyin",
+      "status": "🕘",
+      "id": 56
+    },
+    {
+      "name": "yunus",
+      "status": "✅",
+      "id": 57
+    },
+    {
+      "name": "ahmet",
+      "status": "🕘",
+      "id": 58
+    },
+    {
+      "name": "tolga",
+      "status": "✅",
+      "id": 59
+    },
+    {
+      "name": "ferhat",
+      "status": "🕘",
+      "id": 75
+    },
+    {
+      "name": "furkan",
+      "status": "✅",
+      "id": 78
+    },
+    {
+      "name": "ali",
+      "status": "⭕",
+      "id": 79
+    },
+    {
+      "name": "",
+      "status": "✅",
+      "id": 80
+    }
+  ]
+}
