@@ -1,1 +1,1 @@
-﻿Chat application that users send messages to global room or can chatting each other.
+Chat application that allows users to chat within the global room or with each other.
